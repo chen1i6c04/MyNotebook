@@ -1,0 +1,349 @@
+Identifier,ST,BioSample,Country,Serovar,Serovar_pred,Host,Year,NCBIAccession,ResistanceGene,Inc_type,PointMutation
+R15.2199,292,SAMN10425279,Taiwan,Albany,Albany,Homo sapiens,2015,SRR8189353,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R15.2267,292,SAMN10425280,Taiwan,Albany,Albany,Homo sapiens,2015,SRR8189354,"blaPSE, dfrA1, floR, sul1, tet(G)",ColpVC,"gyrA S83F, parC T57S"
+R15.2725,292,SAMN10425282,Taiwan,Albany,Albany,Homo sapiens,2015,SRR8189364,"blaPSE, dfrA1, erm(42), floR, mcr-1, sul1, sul2, tet(G)","Col440I, IncI2(Delta)","gyrA S83F, parC T57S"
+R16.0431,292,SAMN15944976,Taiwan,Albany,Albany,Pig,2015,SRR12549528,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R16.0556,292,SAMN15944967,Taiwan,Albany,Albany,Chicken,2015,SRR12549527,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R16.3208,292,SAMN10425311,Taiwan,Albany,Albany,Homo sapiens,2016,SRR8189436,"blaPSE, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+R16.4194,292,SAMN10425316,Taiwan,Albany,Albany,Homo sapiens,2016,SRR8189534,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.0511,292,SAMN15944968,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12549526,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.1799,292,SAMN10425332,Taiwan,Albany,Albany,Homo sapiens,2017,SRR8189504,"blaPSE, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+R17.1904,292,SAMN15944972,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12549525,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.2117,292,SAMN10425333,Taiwan,Albany,Albany,Homo sapiens,2017,SRR8189551,"blaPSE, dfrA1, floR, sul1, tet(G)",ColpVC,"gyrA D87N, parC T57S"
+R17.2828,292,SAMN10425339,Taiwan,Albany,Albany,Homo sapiens,2017,SRR8189553,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.3690,292,SAMN15944969,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12549524,"blaPSE, dfrA1, erm(42), floR, mcr-1, sul1, sul2, tet(G)",IncI2(Delta),"gyrA S83F, parC T57S"
+R17.3697,292,SAMN15944970,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12549523,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.4038,292,SAMN15944971,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12549522,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.4301,292,SAMN10425354,Taiwan,Albany,Albany,Homo sapiens,2017,SRR8189405,"blaPSE, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+R17.5973,292,SAMN10425375,Taiwan,Albany,Albany,Homo sapiens,2017,SRR8189521,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R17.5974,292,SAMN15903639,Taiwan,Albany,Albany,Homo sapiens,2017,SRR12560291,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R18.1128,292,SAMN15944973,Taiwan,Albany,Albany,Homo sapiens,2018,SRR12549521,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R18.2159,292,SAMN15944974,Taiwan,Albany,Albany,Homo sapiens,2018,SRR12549520,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+R18.2274,292,SAMN15944975,Taiwan,Albany,Albany,Homo sapiens,2018,SRR12549519,"blaPSE, dfrA1, erm(42), floR, sul1, sul2, tet(G)",,"gyrA S83F, parC T57S"
+ATCC 51960,292,SAMN01823708,,Albany,Albany,,,GCA_000487515.2,,,parC T57S
+CVM N45398,292,SAMN03894143,USA,Albany,Albany,,2013,GCA_001241765.1,,Col440I,parC T57S
+CVM N46827,292,SAMN03894206,USA,Albany,Albany,,2013,GCA_001243145.1,,,parC T57S
+CVM N48692,292,SAMN03894279,USA,Albany,Albany,,2013,GCA_001244795.1,"aph(3')-Ia, blaCMY-2",IncI1-I(Gamma),parC T57S
+CVM N51278,292,SAMN03894369,USA,Albany,Albany,,2013,GCA_001246755.1,,,parC T57S
+CVM N38860,292,SAMN02699283,USA,Albany,Albany,,2012,GCA_001479845.1,blaCMY,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+BCW_2135,,SAMN02367943,USA,Albany,Albany,,2010,GCA_002031475.1,blaCMY-2,IncI1-I(Gamma),parC T57S
+BCW_2132,292,SAMN02367940,USA,Albany,Albany,,2010,GCA_002032745.1,,,parC T57S
+74-2811,292,SAMN03264984,,Albany,Albany,,,GCA_002046575.1,,,parC T57S
+95-0155,,SAMN03264982,,Albany,Albany,,,GCA_002046915.1,,IncI1-I(Gamma),parC T57S
+08-0005,292,SAMN03264981,,Albany,Albany,,,GCA_002047035.1,,IncX4,parC T57S
+06-0796,292,SAMN03264980,,Albany,Albany,,,GCA_002047105.1,,,parC T57S
+70-0076,292,SAMN03264983,,Albany,Albany,,,GCA_002048105.1,,,parC T57S
+BCW_2888,292,SAMN02368753,,Albany,Albany,,,GCA_002062195.1,"blaCARB-2, dfrA1, floR, sul1, tet(G)",Col(pHAD28),"gyrA S83F, parC T57S"
+BCW_2634,292,SAMN02368525,Taiwan,Albany,Albany,Homo sapiens,2000,GCA_002071615.1,"blaCARB-2, dfrA1, floR, sul1, tet(G)",IncI1-I(Gamma),parC T57S
+NCTR177,292,SAMN07508694,Taiwan,Albany,Albany,,2001,GCA_002283235.1,"dfrA1, sul1",,"gyrA D87N, parC T57S"
+SG_WB22,3633,SAMN08848101,Singapore,Albany,Albany,,2016,GCA_003047335.1,"aadA1, aadA2, aph(3'')-Ib, aph(6)-Id, blaCARB-2, blaTEM, cmlA1, dfrA15, floR, sul1, sul3, tet(A), tet(M)","IncFIB(K), IncI(Gamma)","gyrA D87N, parC T57S"
+SCMYP1,292,SAMN10458079,China,Albany,Albany,swine,2017,GCA_003856185.1,"blaCARB-2, blaCTX-M-55, dfrA1, floR, mcr-1.1, sul1, tet(G)","IncI(Gamma), IncI2(Delta), IncN","gyrA S83F, parC T57S"
+sg_wt5,292,SAMN08848549,Singapore,Albany,Albany,,2016,GCA_004194605.3,"blaCARB-2, dfrA1, floR, sul1, tet(G)",IncI1-I(Gamma),"gyrA D87N, parC T57S"
+sg_wb25,3633,SAMN08848548,Singapore,Albany,Albany,,2016,GCA_004291815.1,"aadA1, aadA2, aph(3'')-Ib, aph(6)-Id, blaTEM-1, cmlA1, dfrA1, dfrA15, fosA4, qnrS1, sul1, sul3, tet(A)","Col156, ColpVC, IncFIB(K), IncN","gyrA D87N, parC T57S"
+sg_wb23,3633,SAMN08848546,Singapore,Albany,Albany,,2016,GCA_004292445.1,"aadA1, aadA2, aph(3'')-Ib, aph(6)-Id, blaCARB-2, blaTEM, cmlA1, dfrA15, floR, sul1, sul3, tet(A), tet(M)","IncFIB(K), IncI(Gamma)","gyrA D87N, parC T57S"
+sg_wb24,3633,SAMN08848547,Singapore,Albany,Albany,,2016,GCA_004292455.1,"aadA1, aadA2, aph(3'')-Ib, aph(6)-Id, blaCARB-2, blaTEM, cmlA1, dfrA15, floR, sul1, sul3, tet(A), tet(M)","IncFIB(K), IncI(Gamma)","gyrA D87N, parC T57S"
+AZ_TG68152,292,SAMN02261123,USA,Albany,Albany,,2009,SRR1002842,,,parC T57S
+FSIS21925241,292,SAMN12659464,USA,Albany,Albany,,2019,SRR10043663,tet(B),,parC T57S
+796479,292,SAMN12686866,UK,Albany,Albany,Homo sapiens,2019,SRR10063032,"aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+FSIS11924688,292,SAMN12821216,USA,Albany,Albany,,2019,SRR10164136,,"Col(pHAD28), Col156",parC T57S
+812243,292,SAMN12920353,UK,Albany,Albany,Homo sapiens,2019,SRR10235720,"blaCMY-2, dfrA1, fosA4, sul1","IncFIB(AP001918), IncI1-I(Gamma)","gyrA D87N, parC T57S"
+CVM N18S2238,292,SAMN12930429,USA,Albany,Albany,,2018,SRR10237547,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+818075,292,SAMN13002516,UK,Albany,Albany,Homo sapiens,2019,SRR10253908,,,parC T57S
+FSIS11925418,292,SAMN13051546,USA,Albany,Albany,,2019,SRR10303379,"aac(3)-VIa, aadA1, sul1, tet(B)","Col156, IncI1-I(Gamma)",parC T57S
+MDH-2013-00196,292,SAMN02378201,USA,Albany,Albany,,2013,SRR1031976,,Col440I,parC T57S
+830238,292,SAMN13173953,UK,Albany,Albany,Homo sapiens,2019,SRR10381295,"blaCARB-2, dfrA1, floR, sul1, tet(G)",Col(pHAD28),"gyrA S83F, parC T57S"
+FSF0061,292,SAMN02344795,Viet Nam,Albany,Albany,,2010,SRR1049668,"blaCARB-2, blaTEM-1, dfrA1, floR, sul1, sul3, tet(G)","ColpVC, IncI(Gamma)","gyrA D87N, parC T57S"
+FSF0053,292,SAMN02344824,Mexico,Albany,Albany,,2010,SRR1049700,,,parC T57S
+BCW_2888,292,SAMN02368753,,Albany,Albany,,,SRR1057379,"blaCARB-2, dfrA1, floR, sul1, tet(G)",Col(pHAD28),"gyrA S83F, parC T57S"
+BCW_2111,292,SAMN02367920,USA,Albany,Albany,,2010,SRR1060568,tet(A),"ColpVC, IncI1-I(Gamma)",parC T57S
+FSIS21926335,292,SAMN13558503,USA,Albany,Albany,,2019,SRR10689948,tet(B),,parC T57S
+FSIS11927551,292,SAMN13746577,USA,Albany,Albany,,2019,SRR10842922,tet(B),,parC T57S
+865045,292,SAMN13750003,UK,Albany,Albany,Homo sapiens,2019,SRR10843962,,,parC T57S
+FSIS21926443,292,SAMN13895244,USA,Albany,Albany,,2019,SRR10918769,,,parC T57S
+BCW_2135,292,SAMN02367943,USA,Albany,Albany,,2010,SRR1106589,blaCMY-2,IncI1-I(Gamma),parC T57S
+BCW_2634,292,SAMN02368525,Taiwan,Albany,Albany,Homo sapiens,2000,SRR1118709,"blaCARB-2, dfrA1, floR, sul1, tet(G)",IncI1-I(Gamma),parC T57S
+FSIS22027192,292,SAMN14233103,USA,Albany,Albany,,2020,SRR11195960,tet(B),,parC T57S
+N31839,292,SAMN02368011,USA,Albany,Albany,,2011,SRR1122598,blaCMY-2,IncI1-I(Gamma),parC T57S
+BCW_2132,292,SAMN02367940,USA,Albany,Albany,,2010,SRR1122620,,,parC T57S
+BCW_2027,292,SAMN02367841,USA,Albany,Albany,,2010,SRR1122670,,,parC T57S
+903965,292,SAMN14418788,UK,Albany,Albany,Homo sapiens,2020,SRR11362226,qnrB7,IncX3,parC T57S
+CVM 22481,292,SAMN14504609,USA,Albany,Albany,,2003,SRR11457646,,,parC T57S
+CVM 22458,292,SAMN14504602,USA,Albany,Albany,,2003,SRR11457654,,,parC T57S
+FSIS12029547,292,SAMN14543931,USA,Albany,Albany,,2020,SRR11486717,,,parC T57S
+FSIS22027802,292,SAMN14608937,USA,Albany,Albany,,2020,SRR11557928,,"Col(pHAD28), Col156",parC T57S
+MDH-2013-00085,292,SAMN02378090,USA,Albany,Albany,,2009,SRR1158095,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+FSIS12029985,292,SAMN14656717,USA,Albany,Albany,,2020,SRR11584883,tet(B),,parC T57S
+CFSAN103854,292,SAMN14677212,Trinidad and Tobago,Albany,Albany,,2019,SRR11660185,qnrB19,Col(pHAD28),parC T57S
+CFSAN103853,292,SAMN14677210,Trinidad and Tobago,Albany,Albany,,2019,SRR11660192,qnrB19,Col(pHAD28),parC T57S
+CFSAN103855,292,SAMN14677203,Trinidad and Tobago,Albany,Albany,,2019,SRR11660201,qnrB19,Col(pHAD28),parC T57S
+VA_WGS-00145,292,SAMN02403366,USA,Albany,Albany,Turkey,2006,SRR1272486,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+VA_WGS-00144,292,SAMN02403365,USA,Albany,Albany,Turkey,2006,SRR1272807,"aac(3)-VIa, aadA1, sul1, tet(A)",IncI1-I(Gamma),parC T57S
+FSW0189,292,SAMN02678916,Taiwan,Albany,Albany,,2011,SRR1272835,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+VA_WGS-00143,292,SAMN02403364,USA,Albany,Albany,Turkey,2006,SRR1272861,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+FSE0157,292,SAMN02698425,Ecuador,Albany,Albany,,2011,SRR1427713,,,parC T57S
+FCC0156,292,SAMN02678559,USA,Albany,Albany,,2010,SRR1511535,,,parC T57S
+FDA163379,292,SAMN02843596,Mexico,Albany,Albany,,2002,SRR1535747,,,"gyrA S83Y, parC T57S"
+FNE0035,292,SAMN02345214,Singapore,Albany,Albany,,2011,SRR1544220,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+MOD1-Sal_895,292,SAMN02645781,USA,Albany,Albany,,2010,SRR1548395,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+MOD1-Sal_893,292,SAMN02645779,USA,Albany,Albany,,2010,SRR1548409,,Col(pHAD28),parC T57S
+MOD1-Sal_896,292,SAMN02645782,USA,Albany,Albany,,2010,SRR1548410,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+MOD1-Sal_894,292,SAMN02645780,USA,Albany,Albany,,2010,SRR1548427,,,parC T57S
+FCC0211,292,SAMN02678599,Mexico,Albany,Albany,,2008,SRR1561168,,,"gyrA S83Y, parC T57S"
+H124200190,292,SAMN03168748,UK,Albany,Albany,Homo sapiens,2012,SRR1645364,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+H132960589,292,SAMN03169071,,Albany,Albany,Homo sapiens,2013,SRR1645804,"aadA22, dfrA5, lnu(F), sul1, tet(A)",,"gyrA D87N, parC T57S"
+H122200419,292,SAMN03169404,UK,Albany,Albany,Homo sapiens,2012,SRR1646072,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+CRJJGF_00142,292,SAMN02908648,USA,Albany,Albany,,2009,SRR1686616,"aac(3)-VIa, aadA1, sul1","Col440I, IncI1-I(Gamma)",parC T57S
+06-0796,292,SAMN03264980,,Albany,Albany,,,SRR1753744,,,parC T57S
+08-0005,292,SAMN03264981,,Albany,Albany,,,SRR1753747,,IncX4,parC T57S
+95-0155,292,SAMN03264982,,Albany,Albany,,,SRR1753755,,IncI1-I(Gamma),parC T57S
+70-0076,292,SAMN03264983,,Albany,Albany,,,SRR1753775,,,parC T57S
+74-2811,292,SAMN03264984,,Albany,Albany,,,SRR1753776,,,parC T57S
+FDA359144,292,SAMN02844307,China,Albany,Albany,,2005,SRR1767816,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+50119,2641,SAMN03466258,UK,Albany,Albany,Homo sapiens,2014,SRR1958365,"dfrA5, mph(A), sul1, tet(A)",,"gyrA D87Y, parC T57S"
+78693,292,SAMN03468529,UK,Albany,Albany,Homo sapiens,2014,SRR1959360,"blaCARB-2, dfrA1, floR, sul1, tet(G)","Col(BS512), IncFII(pSE11)","gyrA D87N, parC T57S"
+79026,292,SAMN03468961,UK,Albany,Albany,Homo sapiens,2015,SRR1960141,"blaCARB-2, sul1","Col(pHAD28), ColpVC","gyrA D87N, parC T57S"
+71541,292,SAMN03468995,UK,Albany,Albany,Homo sapiens,2014,SRR1960195,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+69695,292,SAMN03469802,UK,Albany,Albany,Homo sapiens,2014,SRR1963325,,IncI1-I(Gamma),parC T57S
+40331,292,SAMN03475859,UK,Albany,Albany,Homo sapiens,2014,SRR1965757,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+38380,292,SAMN03476171,UK,Albany,Albany,,2014,SRR1966085,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+38396,292,SAMN03476460,UK,Albany,Albany,,2014,SRR1966377,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+31908,292,SAMN03476820,UK,Albany,Albany,,2014,SRR1966742,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)","ColpVC, IncI1-I(Gamma)",parC T57S
+9303,292,SAMN03477394,UK,Albany,Albany,Homo sapiens,2014,SRR1967304,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+25228,292,SAMN03477502,UK,Albany,Albany,Homo sapiens,2014,SRR1967412,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+69271,292,SAMN03479560,UK,Albany,Albany,Homo sapiens,2014,SRR1969483,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+37001,292,SAMN03479634,UK,Albany,Albany,,2014,SRR1969557,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)","IncI1-I(Gamma), IncX4",parC T57S
+38379,292,SAMN03479928,UK,Albany,Albany,,2014,SRR1969851,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)","Col(pHAD28), Col156, IncI1-I(Gamma)",parC T57S
+13818,292,SAMN03480222,UK,Albany,Albany,Homo sapiens,2014,SRR1970146,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+WAPHL_SAL-A00826,292,SAMN03291655,USA,Albany,Albany,,2006,SRR2082842,,,parC T57S
+CVM N52022,292,SAMN03988223,USA,Albany,Albany,,2014,SRR2407543,,Col(pHAD28),parC T57S
+CVM N53045,292,SAMN03988301,USA,Albany,Albany,,2014,SRR2407621,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","IncHI2, IncHI2A",parC T57S
+CVM N54281,292,SAMN03988387,USA,Albany,Albany,,2014,SRR2407707,,"Col(pHAD28), Col156",parC T57S
+CVM N54702,292,SAMN03988399,USA,Albany,Albany,,2014,SRR2407719,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+CVM N55387,292,SAMN03988467,USA,Albany,Albany,,2014,SRR2407787,,IncI1-I(Gamma),parC T57S
+CVM N55395,292,SAMN03988475,USA,Albany,Albany,,2014,SRR2407795,,,parC T57S
+CVM-N15753,292,SAMN03842291,USA,Albany,Albany,,2007,SRR2532631,"aac(3)-VIa, aadA1, sul1","ColpVC, IncI1-I(Gamma)",parC T57S
+WAPHL_SAL-A00855,292,SAMN03291684,USA,Albany,Albany,,2006,SRR2533329,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+FDA251867,292,SAMN02843919,Indonesia,Albany,Albany,,2003,SRR2533411,,,parC T57S
+CVM-N15236,292,SAMN03842256,USA,Albany,Albany,,2007,SRR2533544,"aac(3)-VIa, aadA1, sul1","Col440I, IncI1-I(Gamma)",parC T57S
+CVM-N15237,292,SAMN03842257,USA,Albany,Albany,,2007,SRR2533545,"aac(3)-VIa, aadA1, sul1","Col440I, IncI1-I(Gamma)",parC T57S
+CVM N45398,292,SAMN03894143,USA,Albany,Albany,,2013,SRR2566945,,Col440I,parC T57S
+CVM N46827,292,SAMN03894206,USA,Albany,Albany,,2013,SRR2567008,,,parC T57S
+CVM N48692,292,SAMN03894279,USA,Albany,Albany,,2013,SRR2567081,"aph(3')-Ia, blaCMY-2",IncI1-I(Gamma),parC T57S
+CVM N51278,292,SAMN03894369,USA,Albany,Albany,,2013,SRR2567171,,,parC T57S
+FDA247549,292,SAMN02843896,Taiwan,Albany,Albany,,2003,SRR2910876,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+FDA251867,292,SAMN02843919,Indonesia,Albany,Albany,,2003,SRR2911818,,,parC T57S
+VA-WGS-00460,292,SAMN03938762,USA,Albany,Albany,,2008,SRR2982353,,,parC T57S
+VA-WGS-00461,292,SAMN03938763,USA,Albany,Albany,,2008,SRR2982354,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+VA-WGS-00462,292,SAMN03938764,USA,Albany,Albany,,2008,SRR2982356,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+FSIS1502868,292,SAMN04331706,USA,Albany,Albany,,2015,SRR2989168,"aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaCMY-2, blaTEM-1, floR, sul2, tet(A)",IncC,parC T57S
+VA-WGS-00488,292,SAMN03938790,USA,Albany,Albany,,2008,SRR2993937,"aac(3)-VIa, aadA1, blaHER-3, sul1",IncI1-I(Gamma),parC T57S
+15205,292,SAMN04363001,UK,Albany,Albany,Homo sapiens,,SRR3048727,"blaCARB-2, dfrA1, floR, sul1, tet(G)",Col156,"gyrA D87N, parC T57S"
+53048,292,SAMN04363852,UK,Albany,Albany,Homo sapiens,,SRR3049560,,IncI1-I(Gamma),parC T57S
+81994,292,SAMN04364122,UK,Albany,Albany,Homo sapiens,,SRR3049870,,,parC T57S
+NY-N19899,292,SAMN04224235,USA,Albany,Albany,,2008,SRR3055301,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+CVM-N23832,292,SAMN04255112,USA,Albany,Albany,,2010,SRR3096081,,"Col(pHAD28), Col440I",parC T57S
+WAPHL-SAL-A01004,292,SAMN04217228,USA,Albany,Albany,,2009,SRR3096718,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+CVM-N23793,292,SAMN04256085,USA,Albany,Albany,,2010,SRR3098672,"aph(3')-Ia, blaCMY","Col(pHAD28), ColRNAI, IncI1-I(Gamma)",parC T57S
+25208,2803,SAMN04440822,UK,Albany,Albany,Homo sapiens,,SRR3120729,"aadA1, aph(3'')-Ib, aph(6)-Id, blaCARB-2, blaDHA-17, catA2, dfrA14, dfrA15, floR, qnrB19, sat2, sul1, sul2, tet(B), tet(G)","Col(pHAD28), IncN",parC T57S
+NY-N20024,292,SAMN04224351,USA,Albany,Albany,,2009,SRR3122773,"aac(3)-VIa, aadA1, sul1",IncI1-I(Gamma),parC T57S
+NY-N20104,292,SAMN04224456,USA,Albany,Albany,,2009,SRR3173540,,,parC T57S
+CVM-N23668,292,SAMN04255414,USA,Albany,Albany,,2009,SRR3173560,,"Col(pHAD28), Col156",parC T57S
+CVM-N26076,292,SAMN04255151,USA,Albany,Albany,,2010,SRR3184186,,,parC T57S
+WAPHL-SAL-A01042,292,SAMN04217267,USA,Albany,Albany,,2009,SRR3198620,,,parC T57S
+CVM N57539,292,SAMN04576642,USA,Albany,Albany,,2015,SRR3295558,,,parC T57S
+CVM N57660F,292,SAMN04577404,USA,Albany,Albany,,2014,SRR3295857,"aac(3)-IId, aadA1, blaTEM-1, tet(A)","ColpVC, IncI1-I(Gamma), IncX4",parC T57S
+CVM N57733F,292,SAMN04577432,USA,Albany,Albany,,2014,SRR3295885,blaCMY-2,IncI1-I(Gamma),parC T57S
+FSIS1606499,292,SAMN04925773,USA,Albany,Albany,,2014,SRR3470660,blaCTX-M-1,IncN,parC T57S
+FSIS1606495,292,SAMN04925769,USA,Albany,Albany,,2014,SRR3470661,blaCTX-M-1,IncN,parC T57S
+FSIS1606497,292,SAMN04925771,USA,Albany,Albany,,2014,SRR3470662,blaCTX-M-1,IncN,parC T57S
+FSIS1606498,292,SAMN04925772,USA,Albany,Albany,,2015,SRR3470664,blaCTX-M-1,IncN,parC T57S
+FSIS1606496,292,SAMN04925770,USA,Albany,Albany,,2014,SRR3470667,"aac(3)-VIa, aadA1, blaCTX-M-1, sul1",IncN,parC T57S
+FSIS1501723,292,SAMN04930927,USA,Albany,Albany,,2015,SRR3470773,"aph(3'')-Ib, aph(6)-Id, blaCTX-M-1, dfrA14, sul2","Col(pHAD28), IncN",parC T57S
+FSIS1501921,292,SAMN05001748,USA,Albany,Albany,,2015,SRR3532909,blaCTX-M-1,IncN,parC T57S
+CVM-N28616,292,SAMN04255313,USA,Albany,Albany,,2010,SRR3606590,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+FDA145491,292,SAMN02843505,Taiwan,Albany,Albany,,2001,SRR3634453,"dfrA1, sul1",,"gyrA D87N, parC T57S"
+PNUSAS002236,292,SAMN05203334,USA,Albany,Albany,,2015,SRR3642956,,ColpVC,parC T57S
+CVM N38860,292,SAMN02699283,USA,Albany,Albany,,2012,SRR3664618,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+CVM N42330,292,SAMN05201956,USA,Albany,Albany,,2012,SRR3664872,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+CVM N58640,292,SAMN05416433,USA,Albany,Albany,,2015,SRR3932939,"aac(6')-Ib4, aadA1, mcr-9.1","IncHI2, IncHI2A",parC T57S
+CVM N59323,292,SAMN05416478,USA,Albany,Albany,,2015,SRR3932984,,"Col(pHAD28), Col440I",parC T57S
+CVM N62445,292,SAMN05416489,USA,Albany,Albany,,2015,SRR3932995,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+V-CLASP-D-59,292,SAMN05417609,USA,Albany,Albany,Dog,2012,SRR3933152,blaCMY-2,"Col(pHAD28), IncI1-I(Gamma)",parC T57S
+CVM-N23667,292,SAMN04255413,USA,Albany,Albany,,2009,SRR4019214,,"Col440I, IncI1-I(Gamma)",parC T57S
+FDA912051-1,292,SAMN05569593,China,Albany,Albany,,2015,SRR4048532,,,parC T57S
+CVM N58684,292,SAMN05771740,USA,Albany,Albany,,2015,SRR4280581,blaCMY-2,"Col(pHAD28), Col156, IncI1-I(Gamma)",parC T57S
+CVM N62953,292,SAMN05771788,USA,Albany,Albany,,2015,SRR4280629,"aac(3)-VIa, aadA1","Col(pHAD28), IncC",parC T57S
+PNUSAS006236,292,SAMN06229986,USA,Albany,Albany,,2002,SRR5188578,,,"gyrA S83F, parC T57S"
+PNUSAS006542,292,SAMN06244433,USA,Albany,Albany,,2016,SRR5195402,,,parC T57S
+138404,292,SAMN06278836,UK,Albany,Albany,Homo sapiens,2015,SRR5216445,"aph(3'')-Ib, aph(6)-Id, blaCARB-2, dfrA1, floR, sul1, sul2, tet(A), tet(G)",Col(pHAD28),"gyrA D87N, parC T57S"
+FSIS1709980,292,SAMN06307815,USA,Albany,Albany,,2016,SRR5235512,,IncI1-I(Gamma),parC T57S
+ADRDL-953,292,SAMN06333464,USA,Albany,Albany,,1988,SRR5278882,"aph(3'')-Ib, aph(6)-Id, tet(B)",IncI1-I(Gamma),parC T57S
+PNUSAS011417,292,SAMN06812513,USA,Albany,Albany,,2017,SRR5486653,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+FSIS1700585,292,SAMN07173166,USA,Albany,Albany,,2017,SRR5620257,"aac(3)-VIa, aadA1, blaTEM-1, sul1, tet(B)",IncI1-I(Gamma),parC T57S
+FSIS1701316,292,SAMN07206081,USA,Albany,Albany,,2017,SRR5660123,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+FDA645354 A,292,SAMN02846997,Taiwan,Albany,Albany,,2010,SRR5861471,"dfrA1, sul1",,"gyrA S83F, parC T57S"
+FDA645354 B,292,SAMN02846998,Taiwan,Albany,Albany,,2010,SRR5861477,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+FSIS1703332,292,SAMN07450970,USA,Albany,Albany,,2017,SRR5901627,,"Col156, IncI1-I(Gamma)",parC T57S
+FSIS1703739,292,SAMN07563039,USA,Albany,Albany,,2017,SRR5982078,,IncI1-I(Gamma),parC T57S
+FSIS21720098,292,SAMN07611468,USA,Albany,Albany,,2017,SRR6011706,,IncI1-I(Gamma),parC T57S
+FSIS11704275,292,SAMN07656066,USA,Albany,Albany,,2017,SRR6042795,,IncI1-I(Gamma),parC T57S
+FSIS11704694,292,SAMN07738617,USA,Albany,Albany,,2017,SRR6131624,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), Col8282, IncHI2, IncHI2A",parC T57S
+FSIS11705380,292,SAMN08000965,USA,Albany,Albany,,2016,SRR6269887,,,parC T57S
+FSIS11705872,292,SAMN08056722,USA,Albany,Albany,,2017,SRR6316177,,Col(pHAD28),parC T57S
+FSIS11705991,292,SAMN08114447,USA,Albany,Albany,,2017,SRR6336487,,Col(pHAD28),parC T57S
+FSIS11705330,292,SAMN08115106,USA,Albany,Albany,,2017,SRR6337586,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+CVM N16S121,,SAMN08113999,USA,Albany,Albany,,2016,SRR6350932,,Col(pHAD28),parC T57S
+CVM N16S222,292,SAMN08114094,USA,Albany,Albany,,2016,SRR6351047,"aac(6')-Ib4, aadA1, mcr-9, tet(B)","IncHI2, IncHI2A",parC T57S
+FSIS11706650,292,SAMN08243919,USA,Albany,Albany,,2017,SRR6424837,,IncI1-I(Gamma),parC T57S
+PNUSAS030419,292,SAMN08226104,USA,Albany,Albany,,2017,SRR6434055,"aac(6')-Ib4, aadA1, mcr-9.1","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+FSIS21821057,292,SAMN08499099,USA,Albany,Albany,,2018,SRR6691631,,,parC T57S
+FSIS11807690,292,SAMN08581908,USA,Albany,Albany,,2018,SRR6765270,"blaCMY-2, tet(B)",IncI1-I(Gamma),parC T57S
+FSIS31800211,292,SAMN08662377,USA,Albany,Albany,,2018,SRR6818855,"aac(3)-VIa, aadA1, blaHER-3, tet(B)",IncI1-I(Gamma),parC T57S
+PNUSAS034465,292,SAMN08823445,USA,Albany,Albany,,2017,SRR6920521,"blaCARB-2, dfrA1, floR, sul1, tet(G)",ColRNAI,"gyrA S83F, parC T57S"
+sg_wt5,292,SAMN08848549,Singapore,Albany,Albany,,2016,SRR6929558,"blaCARB-2, dfrA1, floR, sul1, tet(G)","ColpVC, IncI1-I(Gamma)","gyrA D87N, parC T57S"
+159686,292,SAMN09211336,UK,Albany,Albany,Homo sapiens,2015,SRR7167769,"aadA2, blaCARB-2, blaTEM-1, lnu(F), qnrB19, sul1","Col(pHAD28), IncI1-I(Gamma)","gyrA D87N, parC T57S"
+FSIS11808501,292,SAMN09214573,USA,Albany,Albany,,2018,SRR7173075,,"Col(pHAD28), Col440I",parC T57S
+449460,4766,SAMN09227924,UK,Albany,Albany,Homo sapiens,2017,SRR7187128,,IncFII(S),parC T57S
+238697,292,SAMN09227928,UK,Albany,Albany,Homo sapiens,2016,SRR7187193,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+201546,292,SAMN09352473,UK,Albany,Albany,Homo sapiens,2015,SRR7257488,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+401792,292,SAMN09387834,UK,Albany,Albany,Homo sapiens,2017,SRR7285642,"aph(3'')-Ib, aph(6)-Id, floR, sul2, tet(A)",,"gyrA S83F, parC T57S"
+172440,292,SAMN09387958,UK,Albany,Albany,Homo sapiens,2015,SRR7285816,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+238461,292,SAMN09434916,UK,Albany,Albany,Homo sapiens,2016,SRR7351433,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+449730,292,SAMN09608644,UK,Albany,Albany,Homo sapiens,2017,SRR7474966,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+FSIS11811514,292,SAMN09633838,USA,Albany,Albany,,2018,SRR7501373,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+172449,292,SAMN09634545,UK,Albany,Albany,,2015,SRR7501696,"aadA2, blaTEM-1, lnu(F)","Col156, ColpVC, IncI1-I(Gamma)",parC T57S
+390074,292,SAMN09634587,UK,Albany,Albany,,2017,SRR7501742,"aac(3)-IId, aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+271090,292,SAMN09643788,UK,Albany,Albany,,2016,SRR7511788,"aadA2, blaTEM-1, lnu(F)",IncI1-I(Gamma),parC T57S
+103730,292,SAMN09651944,UK,Albany,Albany,,2015,SRR7516533,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+238462,292,SAMN09661811,UK,Albany,Albany,Homo sapiens,2016,SRR7523726,"blaCARB-2, sul1",ColpVC,"gyrA D87N, parC T57S"
+159692,2641,SAMN09683598,UK,Albany,Albany,Homo sapiens,2015,SRR7533272,"dfrA5, mph(A), sul1, tet(A)",,"gyrA D87Y, parC T57S"
+FSIS31800757,292,SAMN09689124,USA,Albany,Albany,,2018,SRR7536290,,"Col(pHAD28), Col8282, IncI1-I(Gamma)",parC T57S
+FSIS21822039,292,SAMN09950692,USA,Albany,Albany,,2018,SRR7782663,tet(B),Col156,parC T57S
+FSIS31800975,292,SAMN09994486,USA,Albany,Albany,,2018,SRR7810055,,IncI1-I(Gamma),parC T57S
+511823,5189,SAMN10058653,UK,Albany,Albany,Homo sapiens,2018,SRR7828394,,,parC T57S
+577908,292,SAMN10094177,UK,Albany,Albany,Homo sapiens,2018,SRR7879576,,,"gyrA S83F, parC T57S"
+CVM N17S808,292,SAMN10132931,USA,Albany,Albany,,2017,SRR7907835,,,parC T57S
+CVM N17S812,292,SAMN10132932,USA,Albany,Albany,,2017,SRR7907836,,,parC T57S
+608522,292,SAMN10173301,UK,Albany,Albany,Homo sapiens,2018,SRR7961931,,,parC T57S
+AG03,292,SAMN10261441,Mexico,Albany,Albany,,2008,SRR8081539,,,"gyrA S83Y, parC T57S"
+628839,292,SAMN10356495,UK,Albany,Albany,Homo sapiens,2018,SRR8142789,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA D87N, parC T57S"
+FSIS31801210,292,SAMN10380437,USA,Albany,Albany,,2018,SRR8159460,tet(B),,parC T57S
+R16.0257,292,SAMN10425286,Taiwan,Albany,Albany,Pig,2014,SRR8189393,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+FSIS11814505,292,SAMN10661775,USA,Albany,Albany,,2018,SRR8381437,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+NC_1605120165,292,SAMN10769334,Paraguay,Albany,Albany,,2012,SRR8471332,qnrB19,"Col(pHAD28), ColpVC",parC T57S
+FSIS11917252,292,SAMN10841321,USA,Albany,Albany,,2018,SRR8503362,,Col(pHAD28),parC T57S
+429709,292,SAMN10882247,UK,Albany,Albany,Homo sapiens,2017,SRR8543168,"blaCARB-2, qnrS1, sul1, tet(A)","Col(pHAD28), ColpVC, IncX2","gyrA D87N, parC T57S"
+FSIS11917334,292,SAMN10884670,USA,Albany,Albany,,2019,SRR8546832,,,parC T57S
+FSIS21923484,292,SAMN10908983,USA,Albany,Albany,,2019,SRR8556267,"aac(3)-IId, aadA2, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaTEM-1, dfrA12, sul1","IncI1-I(Gamma), IncX1",parC T57S
+FSIS31901547,292,SAMN10924171,USA,Albany,Albany,,2019,SRR8570205,"aac(3)-VIa, aadA1, tet(B)",IncI1-I(Gamma),parC T57S
+FSIS11917612,292,SAMN10968490,USA,Albany,Albany,,2019,SRR8593400,"aac(6')-Ib4, aadA1, mcr-9.1, tet(B)","Col(pHAD28), IncHI2, IncHI2A",parC T57S
+314984,5880,SAMN11042211,UK,Albany,Albany,Homo sapiens,2016,SRR8650477,,,parC T57S
+346574,292,SAMN11038649,UK,Albany,Albany,Homo sapiens,2017,SRR8650743,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+205734,292,SAMN11093391,UK,Albany,Albany,Homo sapiens,2016,SRR8703058,"blaCARB-2, sul1",,"gyrA D87N, parC T57S"
+2009K1224,292,SAMN11457907,,Albany,Albany,,,SRR8924895,"blaCARB-2, dfrA1, floR, sul1, tet(G)",,"gyrA S83F, parC T57S"
+FSIS21924122,292,SAMN11483367,USA,Albany,Albany,,2019,SRR8946959,"aac(3)-IId, aadA1, blaTEM-1, tet(A), tet(B)",IncI1-I(Gamma),parC T57S
+FSIS11920182,292,SAMN11490998,USA,Albany,Albany,,2019,SRR8950555,"blaHER-3, tet(A), tet(B)",IncI1-I(Gamma),parC T57S
+FSIS11920313,292,SAMN11546036,USA,Albany,Albany,,2019,SRR8996066,"aac(3)-VIa, aadA1, sul1, tet(B)",IncI1-I(Gamma),parC T57S
+CVM N18S0587,292,SAMN11968037,USA,Albany,Albany,,2018,SRR9211011,tet(B),,parC T57S
+FSIS11921627,292,SAMN12040790,USA,Albany,Albany,,2019,SRR9289401,,,parC T57S
+FSIS11922062,292,SAMN12109063,USA,Albany,Albany,,2019,SRR9417631,"aac(6')-Ib4, aadA1, tet(B)","Col(pHAD28), Col156, IncHI2, IncHI2A",parC T57S
+FSIS11922054,292,SAMN12290014,USA,Albany,Albany,,2019,SRR9699517,,Col(pHAD28),parC T57S
+FSIS11922893,292,SAMN12358225,USA,Albany,Albany,,2019,SRR9829567,,,parC T57S
+FSIS11917332,358,SAMN10884668,USA,Goldcoast,Goldcoast,,2019,SRR8546837,,,parC T57S
+N2-2,358,SAMEA5150351,Germany,Goldcoast,Goldcoast,,2017,ERR2984264,"aph(3'')-Ib, aac(6')-Ib, aadA1, aph(6)-Id, blaACC, blaTEM, blaVIM, catA1, ere(A), mcr-9, qnrS, sul1, tet(A)","Col(pHAD28), Col440I, IncHI2, IncHI2A, IncN",parC T57S
+N2-3,358,SAMEA5150352,Germany,Goldcoast,Goldcoast,,2017,ERR2984265,"aph(6)-Id, aph(3'')-Ib, aadA5, blaTEM, qnrS, sul1, tet(A)","Col440I, IncN, IncP6",parC T57S
+N2-4,358,SAMEA5150353,Germany,Goldcoast,Goldcoast,,2017,ERR2984266,"aadA5, sul1","Col(pHAD28), Col440I, IncP6",parC T57S
+N2-5,358,SAMEA5150354,Germany,Goldcoast,Goldcoast,,2017,ERR2984267,"aadA5, sul1",IncP6,parC T57S
+N2-6,358,SAMEA5150355,Germany,Goldcoast,Goldcoast,,2017,ERR2984268,"aadA1, aph(6)-Id, aph(3'')-Ib, aadA5, blaTEM, blaACC, ere(A), mcr-9, qnrB, sul1","IncHI2, IncHI2A, IncP6",parC T57S
+30,358,SAMEA4895879,Netherlands,Goldcoast,Goldcoast,Broiler chicken,2014,ERR2808702,,,parC T57S
+FSIS11812677,358,SAMN09849906,USA,Goldcoast,Goldcoast,,2018,SRR7708078,,Col(pHAD28),parC T57S
+288877,358,SAMN09661767,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2016,SRR7523687,,"ColRNAI, IncHI1A(NDM-CIT), IncHI1B(pNDM-CIT)",parC T57S
+287719,358,SAMN09298388,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2016,SRR7251063,,"ColRNAI, IncHI1A(NDM-CIT), IncHI1B(pNDM-CIT)",parC T57S
+296839,358,SAMN09238930,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2016,SRR7204491,"aadA2, aadA1, blaTEM, cmlA1, floR, dfrA12, qnrS, sul2, sul3, tet(A), tet(M)","Col440I, IncFIA(HI1), IncHI1A, IncHI1B(R27)",parC T57S
+205597,358,SAMN09233436,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2016,SRR7191731,"aph(3'')-Ib, aph(6)-Id, blaTEM, floR, sul2, tet(A)","IncI1-I(Gamma), IncQ1",parC T57S
+199803,358,SAMN09204881,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2015,SRR7159870,,,parC T57S
+CDPH_CSalm375,358,SAMN08412625,USA,Goldcoast,Goldcoast,Homo sapiens,2014,SRR6684912,,,parC T57S
+PNUSAS031632,358,SAMN08355204,USA,Goldcoast,Goldcoast,,2017,SRR6656657,,,parC T57S
+PNUSAS019915,358,SAMN07503349,USA,Goldcoast,Goldcoast,,2017,SRR5947713,,,parC T57S
+FSIS1701735,358,SAMN07250904,USA,Goldcoast,Goldcoast,,2017,SRR5704645,,Col(pHAD28),parC T57S
+FSIS1701703,358,SAMN07230009,USA,Goldcoast,Goldcoast,,2017,SRR5681037,,ColpVC,parC T57S
+PNUSAS012223,358,SAMN06829893,USA,Goldcoast,Goldcoast,,2016,SRR5486719,blaTEM,Col440I,parC T57S
+PNUSAS011732,358,SAMN06759920,USA,Goldcoast,Goldcoast,,2016,SRR5460914,blaTEM,Col440I,parC T57S
+PNUSAS010671,358,SAMN06645012,USA,Goldcoast,Goldcoast,,2017,SRR5382636,,,parC T57S
+FSIS1710854,358,SAMN06603817,USA,Goldcoast,Goldcoast,,2017,SRR5346344,,Col(pHAD28),parC T57S
+FSIS1710353,358,SAMN06346646,USA,Goldcoast,Goldcoast,,2017,SRR5271439,,"Col(pHAD28), ColpVC",parC T57S
+FSIS1609730,358,SAMN06251013,USA,Goldcoast,Goldcoast,,2016,SRR5195873,,,parC T57S
+285680,358,SAMN06247359,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2016,SRR5193262,,Col(BS512),parC T57S
+PNUSAS002981,358,SAMN05437749,USA,Goldcoast,Goldcoast,Homo sapiens,2016,SRR3978290,,,parC T57S
+56929,358,SAMN04363382,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,,SRR3049144,,ColRNAI,parC T57S
+97226,358,SAMN04363168,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,,SRR3048922,,ColRNAI,parC T57S
+29331,358,SAMN03480371,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2007,SRR1970295,blaTEM,IncI1-I(Gamma),parC T57S
+29364,358,SAMN03480294,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1970218,,ColRNAI,parC T57S
+29320,358,SAMN03480167,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2005,SRR1970090,,,parC T57S
+29379,358,SAMN03480162,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1970085,,"ColRNAI, pSL483",parC T57S
+29324,358,SAMN03480133,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2006,SRR1970055,,,parC T57S
+29369,358,SAMN03480008,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969931,,ColRNAI,parC T57S
+29338,358,SAMN03479941,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2009,SRR1969864,,,parC T57S
+29358,358,SAMN03479884,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969808,,ColRNAI,parC T57S
+29372,358,SAMN03479832,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969756,,ColRNAI,parC T57S
+29333,358,SAMN03479785,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1969709,,,parC T57S
+29326,358,SAMN03479653,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2006,SRR1969576,,,parC T57S
+29323,358,SAMN03479499,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2005,SRR1969422,,,parC T57S
+29328,358,SAMN03479535,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2007,SRR1969458,,ColRNAI,parC T57S
+29357,358,SAMN03479536,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969459,,ColRNAI,parC T57S
+29374,358,SAMN03479544,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969467,,ColRNAI,parC T57S
+29377,358,SAMN03479538,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1969461,,"ColRNAI, IncM1",parC T57S
+29335,358,SAMN03479422,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1969345,,,parC T57S
+29341,358,SAMN03479258,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2009,SRR1969181,,,parC T57S
+40774,358,SAMN03479185,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2014,SRR1969108,,ColRNAI,parC T57S
+29325,2529,SAMN03478866,United Kingdom,Goldcoast,Goldcoast,,2006,SRR1968768,,,parC T57S
+29339,358,SAMN03478835,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2009,SRR1968737,,,parC T57S
+29354,358,SAMN03478879,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1968781,,ColRNAI,parC T57S
+29359,358,SAMN03478887,United Kingdom,Goldcoast,Goldcoast,,2013,SRR1968789,,ColRNAI,parC T57S
+29365,358,SAMN03478865,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1968767,,ColRNAI,parC T57S
+29340,358,SAMN03478679,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2009,SRR1968587,,,parC T57S
+29351,358,SAMN03478665,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1968573,,ColRNAI,parC T57S
+29366,358,SAMN03492558,United Kingdom,Goldcoast,Goldcoast,,2013,SRR1968571,,ColRNAI,parC T57S
+5358,358,SAMN03478655,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2014,SRR1968562,,ColRNAI,parC T57S
+29327,358,SAMN03478573,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2006,SRR1968480,,,parC T57S
+29349,358,SAMN03478564,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2011,SRR1968471,"aadA13, lnu(G)",Col156,parC T57S
+29352,358,SAMN03478452,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1968361,,ColRNAI,parC T57S
+29355,358,SAMN03478332,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1968241,,ColRNAI,parC T57S
+29371,358,SAMN03478333,United Kingdom,Goldcoast,Goldcoast,,2013,SRR1968242,,ColRNAI,parC T57S
+29378,358,SAMN03478302,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1968211,,,parC T57S
+29330,358,SAMN03478257,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2007,SRR1968166,,,parC T57S
+29380,358,SAMN03478141,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2014,SRR1968050,,,parC T57S
+36486,358,SAMN03478122,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2014,SRR1968031,,ColRNAI,parC T57S
+29342,358,SAMN03477937,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2009,SRR1967846,,,parC T57S
+29343,358,SAMN03477981,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2010,SRR1967890,,,parC T57S
+29376,358,SAMN03477789,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1967699,,ColRNAI,parC T57S
+29344,358,SAMN03477625,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2010,SRR1967535,,,parC T57S
+29367,358,SAMN03477416,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1967326,,ColRNAI,parC T57S
+36371,358,SAMN03476922,United Kingdom,Goldcoast,Goldcoast,,2014,SRR1966844,,"ColRNAI, IncHI1A(NDM-CIT), IncHI1B(pNDM-CIT)",parC T57S
+29321,358,SAMN03476876,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2005,SRR1966798,,,parC T57S
+29336,358,SAMN03476806,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1966728,"aadA1, sul1, tet(A)",pKPC-CAV1321,parC T57S
+37089,358,SAMN03476815,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2014,SRR1966737,,ColRNAI,parC T57S
+29334,358,SAMN03476694,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1966613,,,parC T57S
+29329,358,SAMN03476649,United Kingdom,Goldcoast,Goldcoast,,2007,SRR1966567,,,parC T57S
+29356,358,SAMN03476656,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1966574,,ColRNAI,parC T57S
+29360,358,SAMN03476632,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1966550,,ColRNAI,parC T57S
+29347,2595,SAMN03476351,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2010,SRR1966268,,,parC T57S
+29375,358,SAMN03476290,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1966206,,,parC T57S
+29373,358,SAMN03476224,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1966139,,ColRNAI,parC T57S
+29348,358,SAMN03476089,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2010,SRR1965998,,,parC T57S
+29350,358,SAMN03476082,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1965991,,,parC T57S
+89879,358,SAMN03476111,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2015,SRR1966025,,,parC T57S
+29362,2603,SAMN03476052,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1965961,,,parC T57S
+29363,358,SAMN03476012,United Kingdom,Goldcoast,Goldcoast,,2013,SRR1965920,,ColRNAI,parC T57S
+29353,358,SAMN03475974,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1965881,,,parC T57S
+29361,358,SAMN03475967,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1965874,,ColRNAI,parC T57S
+94248,358,SAMN03475814,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2015,SRR1965706,,ColRNAI,parC T57S
+29370,358,SAMN03475735,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1965622,,ColRNAI,parC T57S
+29332,358,SAMN03475682,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1965559,,,parC T57S
+29319,358,SAMN03475528,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2005,SRR1965406,,,parC T57S
+29368,358,SAMN03475433,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2013,SRR1965309,,ColRNAI,parC T57S
+29322,358,SAMN03475128,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2005,SRR1965191,,,parC T57S
+29337,358,SAMN03475101,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2008,SRR1965187,,,parC T57S
+H124820345,358,SAMN03169317,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1645999,,ColRNAI,parC T57S
+H124760762,358,SAMN03169051,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1645786,,ColRNAI,parC T57S
+H123220551,358,SAMN03168623,United Kingdom,Goldcoast,Goldcoast,Homo sapiens,2012,SRR1645229,"aph(3'')-Ib, aph(6)-Id, blaTEM, dfrA14, sul2, tet(A)",IncN,parC T57S
